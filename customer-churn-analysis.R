@@ -1,6 +1,6 @@
 
 # Open the CSV file and save it as "data".
-data <- read.csv("C:/Users/SAHITHREDDY/Desktop/customer_Attrition_project/Telco-Customer-Churn.csv")
+data <- read.csv("Telco-Customer-Churn.csv")
 head(data)
 dim(data)
 names(data)
